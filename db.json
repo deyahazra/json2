@@ -51,5 +51,12 @@
       "price": "$50",
       "color": "Green"
     }
-  ]
+  ],
+  "shopping":[
+    {
+      "id": 1,
+      "email": "deyahazra28@gmail.com",
+      "item1":"Hooded Tee",
+    }
+    ]
 }
